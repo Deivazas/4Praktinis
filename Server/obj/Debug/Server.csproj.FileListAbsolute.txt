@@ -1,0 +1,10 @@
+C:\Users\deivi\Desktop\4Praktinis\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\deivi\Desktop\4Praktinis\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\deivi\Desktop\4Praktinis\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\deivi\Desktop\4Praktinis\Server\bin\Debug\Server.exe.config
+C:\Users\deivi\Desktop\4Praktinis\Server\bin\Debug\Server.exe
+C:\Users\deivi\Desktop\4Praktinis\Server\bin\Debug\Server.pdb
+C:\Users\deivi\Desktop\4Praktinis\Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\deivi\Desktop\4Praktinis\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\deivi\Desktop\4Praktinis\Server\obj\Debug\Server.exe
+C:\Users\deivi\Desktop\4Praktinis\Server\obj\Debug\Server.pdb

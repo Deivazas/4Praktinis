@@ -1,0 +1,10 @@
+C:\Users\deivi\Desktop\4Praktinis\Receiver\obj\Debug\Receiver.csproj.AssemblyReference.cache
+C:\Users\deivi\Desktop\4Praktinis\Receiver\obj\Debug\Receiver.csproj.SuggestedBindingRedirects.cache
+C:\Users\deivi\Desktop\4Praktinis\Receiver\obj\Debug\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\deivi\Desktop\4Praktinis\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\deivi\Desktop\4Praktinis\Receiver\bin\Debug\Receiver.exe
+C:\Users\deivi\Desktop\4Praktinis\Receiver\bin\Debug\Receiver.pdb
+C:\Users\deivi\Desktop\4Praktinis\Receiver\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\deivi\Desktop\4Praktinis\Receiver\obj\Debug\Receiver.csproj.CopyComplete
+C:\Users\deivi\Desktop\4Praktinis\Receiver\obj\Debug\Receiver.exe
+C:\Users\deivi\Desktop\4Praktinis\Receiver\obj\Debug\Receiver.pdb

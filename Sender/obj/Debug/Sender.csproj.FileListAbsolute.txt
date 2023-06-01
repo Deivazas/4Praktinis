@@ -1,0 +1,10 @@
+C:\Users\deivi\Desktop\4Praktinis\Sender\obj\Debug\Sender.csproj.AssemblyReference.cache
+C:\Users\deivi\Desktop\4Praktinis\Sender\obj\Debug\Sender.csproj.SuggestedBindingRedirects.cache
+C:\Users\deivi\Desktop\4Praktinis\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+C:\Users\deivi\Desktop\4Praktinis\Sender\bin\Debug\Sender.exe.config
+C:\Users\deivi\Desktop\4Praktinis\Sender\bin\Debug\Sender.exe
+C:\Users\deivi\Desktop\4Praktinis\Sender\bin\Debug\Sender.pdb
+C:\Users\deivi\Desktop\4Praktinis\Sender\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\deivi\Desktop\4Praktinis\Sender\obj\Debug\Sender.csproj.CopyComplete
+C:\Users\deivi\Desktop\4Praktinis\Sender\obj\Debug\Sender.exe
+C:\Users\deivi\Desktop\4Praktinis\Sender\obj\Debug\Sender.pdb
